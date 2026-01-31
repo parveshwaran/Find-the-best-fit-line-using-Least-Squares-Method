@@ -36,6 +36,11 @@ print(Y_pred)
 plt.scatter(X,Y)
 plt.plot(x,y_pred,color="red")
 plt.show()
+/*
+Program to implement univariate Linear Regression to fit a straight line using least squares.
+Developed by: PARVESHWARAN R
+RegisterNumber:212225040295
+*/
 ```
 
 ## Output:
